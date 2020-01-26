@@ -1,5 +1,7 @@
 # Belajar Python 2020
 # Code By Angga Nugraha
+
+
 # Clear Terminal Screen
 import os
 os.system('clear')
